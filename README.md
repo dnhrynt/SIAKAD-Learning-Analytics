@@ -6,6 +6,10 @@ SIAKAD Learning Analytics is a web-based Academic Information System developed a
 
 By combining academic management features with data analytics, the system provides meaningful insights into student learning outcomes and supports data-driven decision-making in the educational environment.
 
+## Dashboard Preview
+
+![Dashboard](Screenshot/dashboard.png)
+
 ## Objectives
 
 * Manage academic data efficiently.
@@ -37,12 +41,21 @@ By combining academic management features with data analytics, the system provid
 * Attendance percentage calculation
 * Attendance monitoring dashboard
 
+## Grade
+
+![Grade](Screenshot/nilai.png)
+
 ### Learning Analytics Dashboard
 
 * Student performance visualization
 * Grade distribution analysis
 * Attendance analysis
 * Academic achievement monitoring
+
+## Learning Analytics
+
+![Learning Analytics](Screenshot/analitiknilai.png)
+![Learning Analytics](Screenshot/analitikkehadiran.png)
 
 ## Technology Stack
 
